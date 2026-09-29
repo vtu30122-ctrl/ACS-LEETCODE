@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [0978-longest-turbulent-subarray](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/0978-longest-turbulent-subarray) |
 | [0980-unique-paths-iii](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/0980-unique-paths-iii) |
+| [1472-design-browser-history](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/1472-design-browser-history) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/1480-running-sum-of-1d-array) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0901-online-stock-span](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/0901-online-stock-span) |
 | [0946-validate-stack-sequences](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/0946-validate-stack-sequences) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [1472-design-browser-history](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/1472-design-browser-history) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Monotonic Stack
 |  |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [0622-design-circular-queue](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/0622-design-circular-queue) |
 | [0876-middle-of-the-linked-list](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/0876-middle-of-the-linked-list) |
+| [1472-design-browser-history](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/1472-design-browser-history) |
 ## Recursion
 |  |
 | ------- |
@@ -106,12 +109,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0933-number-of-recent-calls](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/0933-number-of-recent-calls) |
 | [0981-time-based-key-value-store](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/0981-time-based-key-value-store) |
 | [1396-design-underground-system](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/1396-design-underground-system) |
+| [1472-design-browser-history](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/1472-design-browser-history) |
 | [1603-design-parking-system](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/1603-design-parking-system) |
 ## Data Stream
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/0933-number-of-recent-calls) |
+| [1472-design-browser-history](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/1472-design-browser-history) |
 ## String
 |  |
 | ------- |
@@ -262,4 +267,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/0023-merge-k-sorted-lists) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/1472-design-browser-history) |
 <!---LeetCode Topics End-->
