@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/0622-design-circular-queue) |
 | [0735-asteroid-collision](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/0739-daily-temperatures) |
+| [0867-transpose-matrix](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/0867-transpose-matrix) |
 | [0946-validate-stack-sequences](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/0946-validate-stack-sequences) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Hash Table
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/0735-asteroid-collision) |
+| [0867-transpose-matrix](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/0867-transpose-matrix) |
 | [0946-validate-stack-sequences](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/0946-validate-stack-sequences) |
 ## Queue
 |  |
@@ -139,4 +141,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1360-number-of-days-between-two-dates](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/1360-number-of-days-between-two-dates) |
+## Matrix
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
