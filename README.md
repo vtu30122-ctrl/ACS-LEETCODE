@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0901-online-stock-span](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/0933-number-of-recent-calls) |
 | [0981-time-based-key-value-store](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/0981-time-based-key-value-store) |
+| [1603-design-parking-system](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/1603-design-parking-system) |
 ## Data Stream
 |  |
 | ------- |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/0735-asteroid-collision) |
 | [0867-transpose-matrix](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/0867-transpose-matrix) |
 | [0946-validate-stack-sequences](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/0946-validate-stack-sequences) |
+| [1603-design-parking-system](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/1603-design-parking-system) |
 ## Queue
 |  |
 | ------- |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
+| [1603-design-parking-system](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/1603-design-parking-system) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/1704-determine-if-string-halves-are-alike) |
 ## Sorting
 |  |
