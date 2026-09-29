@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/0739-daily-temperatures) |
 | [0867-transpose-matrix](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/0867-transpose-matrix) |
 | [0946-validate-stack-sequences](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/0946-validate-stack-sequences) |
+| [0977-squares-of-a-sorted-array](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Hash Table
 |  |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/0160-intersection-of-two-linked-lists) |
+| [0977-squares-of-a-sorted-array](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -156,4 +158,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/0217-contains-duplicate) |
+| [0977-squares-of-a-sorted-array](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
