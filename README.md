@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0622-design-circular-queue](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/0622-design-circular-queue) |
 | [0704-binary-search](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/0704-binary-search) |
+| [0705-design-hashset](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/0705-design-hashset) |
 | [0735-asteroid-collision](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/0739-daily-temperatures) |
 | [0867-transpose-matrix](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/0867-transpose-matrix) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/0496-next-greater-element-i) |
+| [0705-design-hashset](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/0705-design-hashset) |
 | [0981-time-based-key-value-store](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/0981-time-based-key-value-store) |
 | [1396-design-underground-system](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/1396-design-underground-system) |
 ## Stack
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [0622-design-circular-queue](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/0622-design-circular-queue) |
+| [0705-design-hashset](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/0705-design-hashset) |
 | [0876-middle-of-the-linked-list](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/0876-middle-of-the-linked-list) |
 | [1472-design-browser-history](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/1472-design-browser-history) |
 ## Recursion
@@ -105,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/0622-design-circular-queue) |
+| [0705-design-hashset](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/0705-design-hashset) |
 | [0901-online-stock-span](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/0933-number-of-recent-calls) |
 | [0981-time-based-key-value-store](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/0981-time-based-key-value-store) |
@@ -271,4 +275,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1472-design-browser-history](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/1472-design-browser-history) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
