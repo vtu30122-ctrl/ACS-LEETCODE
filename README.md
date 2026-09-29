@@ -20,11 +20,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/0901-online-stock-span) |
 ## Linked List
 |  |
 | ------- |
@@ -49,4 +51,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/0142-linked-list-cycle-ii) |
+## Design
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
