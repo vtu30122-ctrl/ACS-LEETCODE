@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/0022-generate-parentheses) |
 | [0344-reverse-string](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/0022-generate-parentheses) |
 ## Simulation
 |  |
 | ------- |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/0022-generate-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0978-longest-turbulent-subarray](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/0978-longest-turbulent-subarray) |
 ## DP on Trees
@@ -226,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/0022-generate-parentheses) |
 | [0980-unique-paths-iii](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/0980-unique-paths-iii) |
 ## Bit Manipulation
 |  |
