@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/0239-sliding-window-maximum) |
 | [0496-next-greater-element-i](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0622-design-circular-queue](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/0622-design-circular-queue) |
+| [0704-binary-search](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/0739-daily-temperatures) |
 | [0867-transpose-matrix](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/0867-transpose-matrix) |
@@ -170,4 +171,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/1480-running-sum-of-1d-array) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
