@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0946-validate-stack-sequences](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/0946-validate-stack-sequences) |
 | [0977-squares-of-a-sorted-array](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [0978-longest-turbulent-subarray](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/0978-longest-turbulent-subarray) |
+| [0980-unique-paths-iii](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/0980-unique-paths-iii) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/1480-running-sum-of-1d-array) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/0867-transpose-matrix) |
+| [0980-unique-paths-iii](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/0980-unique-paths-iii) |
 ## Counting
 |  |
 | ------- |
@@ -215,4 +217,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0979-distribute-coins-in-binary-tree](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/0979-distribute-coins-in-binary-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0980-unique-paths-iii](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/0980-unique-paths-iii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0980-unique-paths-iii](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/0980-unique-paths-iii) |
+## Hamiltonian Path
+|  |
+| ------- |
+| [0980-unique-paths-iii](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/0980-unique-paths-iii) |
 <!---LeetCode Topics End-->
