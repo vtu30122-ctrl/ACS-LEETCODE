@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/0239-sliding-window-maximum) |
 | [0496-next-greater-element-i](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0622-design-circular-queue](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/0622-design-circular-queue) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [0496-next-greater-element-i](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/0496-next-greater-element-i) |
 ## Stack
 |  |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/0239-sliding-window-maximum) |
 ## Heap (Priority Queue)
 |  |
