@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
 | [0876-middle-of-the-linked-list](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 ## Floyd's Cycle Finding Algorithm
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [0981-time-based-key-value-store](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/0981-time-based-key-value-store) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
