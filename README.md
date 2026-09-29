@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/0867-transpose-matrix) |
 | [0946-validate-stack-sequences](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/0946-validate-stack-sequences) |
 | [0977-squares-of-a-sorted-array](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
+| [0978-longest-turbulent-subarray](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/0978-longest-turbulent-subarray) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/1480-running-sum-of-1d-array) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/0239-sliding-window-maximum) |
+| [0978-longest-turbulent-subarray](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/0978-longest-turbulent-subarray) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -205,4 +207,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0978-longest-turbulent-subarray](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/0978-longest-turbulent-subarray) |
 <!---LeetCode Topics End-->
