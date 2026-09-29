@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/0020-valid-parentheses) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1360-number-of-days-between-two-dates](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/1360-number-of-days-between-two-dates) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/1704-determine-if-string-halves-are-alike) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -145,4 +146,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/0867-transpose-matrix) |
+## Counting
+|  |
+| ------- |
+| [1704-determine-if-string-halves-are-alike](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/1704-determine-if-string-halves-are-alike) |
 <!---LeetCode Topics End-->
