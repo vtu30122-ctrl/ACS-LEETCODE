@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/0020-valid-parentheses) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [1360-number-of-days-between-two-dates](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/1360-number-of-days-between-two-dates) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -134,4 +135,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/0199-binary-tree-right-side-view) |
+## Math
+|  |
+| ------- |
+| [1360-number-of-days-between-two-dates](https://github.com/vtu30122-ctrl/ACS-LEETCODE/tree/master/1360-number-of-days-between-two-dates) |
 <!---LeetCode Topics End-->
